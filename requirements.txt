@@ -1,3 +1,13 @@
 
 streamlit
 requests
+pandas
+numpy
+pypdf
+sentence-transformers
+chromadb
+transformers
+torch
+accelerate
+fastapi
+uvicorn
